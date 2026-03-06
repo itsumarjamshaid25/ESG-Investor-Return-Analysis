@@ -2,11 +2,9 @@
 
 ## Project Overview
 
-This project analyzes how much financial return private investors are willing to sacrifice in exchange for investments aligned with Environmental, Social, and Governance (ESG) principles.
+# ESG Investor Return Trade-Off Analysis
 
-The analysis investigates the relationship between sustainability preferences, financial knowledge, risk tolerance, and expected investment returns.
-
-A structured statistical pipeline was implemented to analyze survey data and evaluate investor behavior toward sustainable finance.
+This project investigates how much financial return private investors are willing to sacrifice for sustainable (ESG) investments. Using survey data and statistical analysis, the study evaluates investor behavior through regression models, hypothesis testing, and portfolio preference analysis.
 
 ---
 
