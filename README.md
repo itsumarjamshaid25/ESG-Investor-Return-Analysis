@@ -88,13 +88,13 @@ Excel
 
 Example visualizations generated during the analysis:
 
-![Return Distribution](images/return_expectation_distribution.png)
+![Return Distribution](images/fig_returns_blandaltman.png)
 
-![WTA Trade-Off](images/wta_return_tradeoff.png)
+![Final_Results](images/fig_returns_diffhist.png)
 
-![ESG vs Expected Return](images/esg_vs_return_regression.png)
+![Regression Analysis](images/H4_PartialRegressions.png)
 
-![ESG Portfolio Allocation](images/esg_portfolio_allocation.png)
+![ESG Portfolio Allocation](images/Step6_Corr_Heatmap.png)
 
 Additional figures generated during the analysis are available in the `images` directory.
 
